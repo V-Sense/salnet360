@@ -1,5 +1,5 @@
 # salnet360
-Repository for implementation of SalNet360 in Caffe.
+Repository for implementation of **salnet360** in Caffe.
 
 **salnet360** creates a visual attention map for Omni-directional/360 images.
  
