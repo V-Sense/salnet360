@@ -16,6 +16,6 @@ in the paper.
 createSalMap360.sh \<inputImage> \<outputImage> 
  
 ### Dependencies
-*Python2.7
-*Caffe
-*matlab 
+* Python2.7
+* Caffe
+* matlab 
