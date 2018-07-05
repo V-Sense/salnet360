@@ -12,6 +12,10 @@ The model and parameters files in _models_ directory.
 **vsenseSalNet360Final_iter_12000.caffemodel** has the optimized parameters we found using the training method mentioned
 in the paper.
 
-### Creating an saliency map for omni-directional image
+### For creating a saliency map for omni-directional image use the following command
 createSalMap360.sh \<inputImage> \<outputImage> 
  
+### Dependencies
+*Python2.7
+*Caffe
+*matlab 
